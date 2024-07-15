@@ -2,7 +2,7 @@
   <n-card :bordered="false" class="header" content-style="padding: 0">
     <section>
       <div class="logo" @click="router.push('/')">
-        <img src="/ico/favicon.png" alt="logo" />
+        <img src="/ico/meow.ico" alt="logo" />
         <div class="name">
           <n-text>神马值得看</n-text>
           <n-text :depth="3">雅俗共赏</n-text>
