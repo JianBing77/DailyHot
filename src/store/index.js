@@ -9,6 +9,12 @@ export const mainStore = defineStore("mainData", {
       // 新闻类别
       defaultNewsArr: [
         {
+          label: "历史上的今天",
+          name: "history",
+          order: 0,
+          show: true,
+        },
+        {
           label: "哔哩哔哩",
           name: "bilibili",
           order: 0,
@@ -63,14 +69,14 @@ export const mainStore = defineStore("mainData", {
           show: true,
         },
         {
-          label: "稀土掘金",
-          name: "juejin",
+          label: "IT之家",
+          name: "ithome",
           order: 10,
           show: true,
         },
         {
-          label: "豆瓣讨论小组",
-          name: "douban-group",
+          label: "V2EX",
+          name: "v2ex",
           order: 11,
           show: true,
         },
