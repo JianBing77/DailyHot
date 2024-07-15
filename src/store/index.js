@@ -21,12 +21,6 @@ export const mainStore = defineStore("mainData", {
           show: true,
         },
         {
-          label: "抖音",
-          name: "douyin",
-          order: 2,
-          show: false,
-        },
-        {
           label: "知乎",
           name: "zhihu",
           order: 3,
