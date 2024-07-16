@@ -27,9 +27,15 @@ export const mainStore = defineStore("mainData", {
           show: true,
         },
         {
+          label: "LinuxDo",
+          name: "linuxdo",
+          order: 2,
+          show: true,
+        },
+        {
           label: "知乎",
           name: "zhihu",
-          order: 2,
+          order: 14,
           show: true,
         },
         {
