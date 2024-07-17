@@ -88,7 +88,7 @@ export const mainStore = defineStore("mainData", {
         },
         {
           label: "吾爱破解",
-          name: "52pojie",
+          name: "52pojie-ikun",
           order: 13,
           show: true,
         },
