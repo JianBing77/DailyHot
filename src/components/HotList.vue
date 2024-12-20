@@ -31,7 +31,7 @@
             size="small"
             status="500"
             title="哎呀，加载失败了"
-            description="生活总会遇到不如意的事情"
+            description="别担心，刷新试试吧~"
             style="margin-top: 40px"
           />
           <n-button

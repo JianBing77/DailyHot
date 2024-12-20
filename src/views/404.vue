@@ -13,7 +13,7 @@
       class="error"
       status="404"
       title="404 资源不存在"
-      description="生活总归带点荒谬"
+      description="这个页面溜走了，试试别的吧~"
     >
       <template #footer>
         <n-button @click="goHome">重新载入</n-button>

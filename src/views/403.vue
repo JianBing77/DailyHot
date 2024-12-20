@@ -13,7 +13,7 @@
       class="error"
       status="403"
       title="403 禁止访问"
-      description="总有些门是对你关闭的"
+      description="暂时无法访问"
     >
       <template #footer>
         <n-button @click="goHome">重新载入</n-button>

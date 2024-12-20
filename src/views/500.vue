@@ -13,7 +13,7 @@
       class="error"
       status="500"
       title="500 服务器错误"
-      description="服务器寄了，等会再试吧"
+      description="服务器开小差了，再试试吧~"
     >
       <template #footer>
         <n-button @click="goHome">重新载入</n-button>
